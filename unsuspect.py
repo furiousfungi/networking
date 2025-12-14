@@ -1,5 +1,6 @@
 import socket
 from pathlib import Path
+
 def scan_port(ip, port):
     try:
         sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -22,6 +23,7 @@ with open('ports_status_report.txt', 'w') as file:
             file.write(f"{port} is closed\n")
 
 file.close()
+
 
 
 
