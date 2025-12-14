@@ -32,15 +32,4 @@ class Showports:
                     file.write(f"{port} is closed\n")
 
         file.close()
-
-virus1 = Malware('ports_status_report.txt')
-virus1.showip()
-virus2 = Showports()
-virus2.scanner()
-
-
-
-
-
-
-
+        
