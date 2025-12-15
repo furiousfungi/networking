@@ -1,0 +1,50 @@
+Your IP address is 192.168.0.85
+
+Port 80 is closed
+Port 443 is closed
+Port 22 is closed
+Port 21 is closed
+Your IP address is 192.168.0.85
+
+Port 80 is closed
+Port 443 is closed
+Port 22 is closed
+Port 21 is closed
+Your IP address is 192.168.0.85
+
+Port 80 is closed
+Port 443 is closed
+Port 22 is closed
+Port 21 is closed
+Your IP address is 192.168.0.85
+
+Port 80 is closed
+Port 443 is closed
+Port 22 is closed
+Port 21 is closed
+Your IP address is 192.168.0.85
+
+Your IP address is 192.168.0.85
+
+Port 80 is openPort 443 is openPort 22 is openPort 21 is openYour IP address is 192.168.0.85
+
+Port 80 is openPort 443 is openPort 22 is openPort 21 is openYour IP address is 192.168.0.85
+
+Port 80 is open
+Port 443 is open
+Port 22 is open
+Port 21 is open
+
+Your IP address is 192.168.0.85
+
+Port 80 is open
+Port 443 is open
+Port 22 is open
+Port 21 is open
+
+Your IP address is 192.168.0.85
+
+Port 80 is close
+Port 443 is close
+Port 22 is close
+Port 21 is close
