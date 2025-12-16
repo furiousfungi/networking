@@ -10,7 +10,7 @@ print(f"Serving HTTP on port {PORT}")
 
 while True:
     client_connection, client_address = LISTEN_SOCKET.accept()
-    request = client_CONNECTION.recv(1024)
+    request = client_connection.recv(1024)
     print(request.decode('utf-8', errors='replace'))
 
     http_response = """\
@@ -19,7 +19,8 @@ while True:
    #WRITING GOES HERE
     """
 
-    client_CONNECTION.sendall(http_response.encode())
-    client_CONNECTION.close()
+    client_connection.sendall(http_response.encode())
+    client_connection.close()
+
 
 
