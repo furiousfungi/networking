@@ -16,7 +16,7 @@ while True:
     http_response = """\
     HTTP/1.1 200 OK
 
-   #WRITING GOES HERE
+   dheer your BUNS 
     """
 
     client_connection.sendall(http_response.encode())
